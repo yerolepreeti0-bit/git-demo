@@ -1,4 +1,5 @@
 print("Plot version from master branch")
+print("Plot version from feature-conflict branch")
 
 import matplotlib.pyplot as plt
 
